@@ -1,0 +1,1 @@
+module.exports = require("npm:warning@1.0.2/warning");

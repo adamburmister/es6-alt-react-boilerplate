@@ -1,0 +1,25 @@
+{
+  "name": "es6-alt-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "alt": "npm:alt@^0.17.1",
+      "fetch": "github:github/fetch@^0.9.0",
+      "react": "npm:react@^0.14.0-beta1",
+      "react-router": "npm:react-router@^1.0.0-beta3"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.1.13",
+      "babel-runtime": "npm:babel-runtime@^5.1.13",
+      "core-js": "npm:core-js@^0.9.4"
+    }
+  }
+}
